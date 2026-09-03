@@ -11,7 +11,7 @@
 .PHONY: install test build run docker-build docker-up
 
 install:
-	npm ci
+	npm install
 
 test:
 	npm test
