@@ -16,7 +16,7 @@ install:
 test:
 	npm test
 build:
-	@echo "No separate build step for this Express application"
+	@echo "No build step required for this Node.js application"
 run:
 	@echo "TODO: start the app locally" && exit 1
 
