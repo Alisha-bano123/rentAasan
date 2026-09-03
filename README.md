@@ -1,6 +1,6 @@
 # RentAasan
 
-> RentAasan is a home rental platform that helps tenants find rental properties and allows homeowners to list their properties with details and contact information.
+> RentAasan is a home rental platform that helps tenants find rental properties and allows homeowners to list their properties with details and contact information it is easy to use and based on rajasthan state only.
 
 ## Author
 
