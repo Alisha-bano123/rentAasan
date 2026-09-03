@@ -10,7 +10,7 @@
 
 ## About
 
-RentAasan is a home rental platform designed to connect property owners and tenants. Homeowners can list their properties with details, photos and contact 
+RentAasan is a home rental platform designed to connect property owners and renters. Homeowners can list their properties with details, photos and contact 
 information , while tenants can browse available rental properties.
 
 ## Tech stack
