@@ -19,6 +19,12 @@ information , while tenants can browse available rental properties.
 - Backend:  Node.js / Express.js
 - Database: MongoDB
 
+## CI Pipeline
+
+This project uses GitHub Actions for continuous integration.
+
+The CI workflow runs automatically when changes are pushed to the repository.
+
 ## Running locally
 
 ```bash
